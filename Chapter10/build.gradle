@@ -1,0 +1,15 @@
+repositories {
+  mavenCentral()
+}
+
+apply plugin: 'java'
+
+sourceSets {
+    test.java.srcDirs += '/src/main/java/'
+}
+
+dependencies {
+    compile 'io.reactivex.rxjava2:rxjava:2.1.+'
+    testCompile 'junit:junit:4.12'
+}
+
