@@ -1,5 +1,16 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
+## Errata 
+ * Page 36 (lin no 7):  
+ **The output does not change:
+Observer 1: Alpha
+Observer 1: Beta
+Observer 1: Gamma
+Observer 2: Alpha
+Observer 2: Beta
+Observer 2: Gamma**
+ _should be_ 
+**The output looks as follows:
+Observer 1: Alpha
+Observer 1: Beta
+Observer 1: Gamma
+Observer 2: 5
+Observer 2: 5**
